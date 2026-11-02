@@ -1,0 +1,14 @@
+{
+  "name": "dynamics-365-testing-navigator",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Navigate Dynamics 365 testing questions, distinguishing Finance and Operations, CRM apps and Power Apps before discussing tools or acceptance.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "preview": "node scripts/serve.mjs",
+    "configure": "node scripts/configure.mjs"
+  },
+  "license": "UNLICENSED"
+}

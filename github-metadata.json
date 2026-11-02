@@ -1,0 +1,20 @@
+{
+  "name": "dynamics-365-testing-navigator",
+  "description": "Navigate Dynamics 365 testing questions, distinguishing Finance and Operations, CRM apps and Power Apps before discussing tools or acceptance.",
+  "topics": [
+    "dynamics-365",
+    "d365",
+    "dynamics365-testing",
+    "power-apps",
+    "rsat",
+    "erp",
+    "crm",
+    "quality-assurance"
+  ],
+  "visibility": "private-until-approved",
+  "has_issues": false,
+  "has_wiki": false,
+  "funding": "not-enabled",
+  "homepage": null,
+  "notes": "Proposed metadata only; no GitHub repository created. Replace homepage only with an approved URL."
+}
