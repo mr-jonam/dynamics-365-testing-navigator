@@ -62,11 +62,11 @@ Primary topic: **Dynamics 365 testing**.
 
 Related search phrases: D365 testing readiness; Dynamics 365 regression testing; Dynamics 365 Finance Operations RSAT; Power Apps testing scope. These are editorial keyword hypotheses, not measured search-volume claims.
 
-Suggested GitHub topics: `dynamics-365`, `d365`, `dynamics365-testing`, `power-apps`, `rsat`, `erp`, `crm`, `quality-assurance`. Use only topics describing the actual content. Repository description and topics are provided in [github-metadata.json](github-metadata.json); nothing has been applied on GitHub.
+Suggested GitHub topics: `dynamics-365`, `d365`, `dynamics365-testing`, `power-apps`, `rsat`, `erp`, `crm`, `quality-assurance`. Use only topics describing the actual content. Repository description and topics are provided in [github-metadata.json](github-metadata.json); description and topics are configured on the private GitHub repository.
 
 ## Publication status
 
-**Local preparation only.** Public contact, domain, legal holder, final rights and hosting notice need approval. Draft pages use `noindex, nofollow` and robots exclusion. Final configuration creates canonical URLs, social metadata, structured data, robots and sitemap; it does not deploy anything. See [PUBLISHING.md](PUBLISHING.md). Use an approved hosting destination for the commercial landing site; review GitHub Pages usage limits.
+**Private GitHub preparation.** Repository: [dynamics-365-testing-navigator](https://github.com/mr-jonam/dynamics-365-testing-navigator). Public visibility and a website deployment have not been enabled. Public contact, domain, legal holder, final rights and hosting notice need approval. Draft pages use `noindex, nofollow` and robots exclusion. Final configuration creates canonical URLs, social metadata, structured data, robots and sitemap; it does not deploy anything. See [PUBLISHING.md](PUBLISHING.md). Use an approved hosting destination for the commercial landing site; review GitHub Pages usage limits.
 
 ## Sources and attribution
 
