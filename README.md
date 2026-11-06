@@ -6,6 +6,14 @@ Navigate Dynamics 365 testing questions, distinguishing Finance and Operations, 
 
 **Decision in focus:** Which application family and business journey determine the evidence discussion?
 
+## See a first result
+
+**Problem:** A team proposes a testing tool before identifying the Dynamics application family.
+
+**Example result:** Which Dynamics application family and business journey are actually changing?
+
+[Walk through the fictional example](examples/FIRST-RESULT.md), then [read the decision guide](GUIDE.md). Both open directly on GitHub, without installation or a contact request. The result is a question for the accountable owner; it is not a finding about a real system.
+
 <!-- publication:links:start -->
 [Read the guide on GitHub](GUIDE.md) · [Browse all eight guides](https://github.com/mr-jonam/digital-platform-testing-guide/blob/master/REPOSITORIES.md) · [Discuss professional support](https://www.linkedin.com/in/manoj-rollo/)
 
@@ -22,7 +30,11 @@ Navigate Dynamics 365 testing questions, distinguishing Finance and Operations, 
 
 Open `docs/index.html` in a browser or use the local preview:
 
+Download the repository, or clone it and start the optional local preview:
+
 ```sh
+git clone https://github.com/mr-jonam/dynamics-365-testing-navigator.git
+cd dynamics-365-testing-navigator
 npm run preview
 ```
 
@@ -76,6 +88,12 @@ Suggested GitHub topics: `dynamics-365`, `d365`, `dynamics365-testing`, `power-a
 - [Microsoft Learn — Test Studio](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/test-studio)
 
 Read [SOURCES.md](SOURCES.md) for verification status. References are linked, not republished. Product names identify subject matter; no vendor affiliation, endorsement, logo or partner status is claimed.
+
+## Corrections and future updates
+
+For a broken reference or unclear passage, follow [editorial feedback guidance](CONTRIBUTING.md). Include the page, the confusing sentence and a public source where relevant. External contributions are currently closed.
+
+For future public QA resources, follow [mr-jonam on GitHub](https://github.com/mr-jonam) using the profile's Follow button. Updates appear when material is reviewed; no release schedule is promised.
 
 ## Licence and provenance
 
